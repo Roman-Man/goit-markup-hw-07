@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../goit-markup-hw-07/sass/base/fonts.scss"
+    ],
+    "names": [],
+    "file": "fonts.min.css"
+}
