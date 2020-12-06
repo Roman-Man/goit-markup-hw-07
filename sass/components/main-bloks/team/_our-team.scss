@@ -1,0 +1,16 @@
+.our-team {
+  background-color: #f5f4fa;
+}
+.our-team__container {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.our-team__title {
+  @extend %title;
+}
+.our-team__team-list {
+  display: flex;
+}
+.our-team__card:not(:last-child) {
+  margin-right: 30px;
+}
